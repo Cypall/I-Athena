@@ -1,2 +1,2 @@
-# I-Athena
- RO Server Emulator
+<img src="doc/logo.png" align="right" height="90" />
+I-Athena
